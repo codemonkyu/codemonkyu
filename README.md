@@ -14,7 +14,7 @@
 
 <b>🧾To My blog</b>
 
-<a href="https://codemonkyu.tistory.com/"><img src="https://img.shields.io/badge/My blog-FF5722?style=flat-square&logo=로고명&logoColor=로고색"/></a>
+<a href="https://codemonkyu.tistory.com/"><img src="https://img.shields.io/badge/My blog-FF5722?style=flat-square"/></a>
 
 ---
 
