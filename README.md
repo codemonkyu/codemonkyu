@@ -2,15 +2,11 @@
 
 ## Tech Stack
 
-##### 🛠Techs I've used at least once & 📖Studying
+### 🛠Techs I've used at least once & 📖Studying
 
 <b>💻DEV</b>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=black"/>
 
 <b>🛠 Ops</b>
 
@@ -31,8 +27,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemonkyu)](https://github.com/codemonkyu/github-readme-stats)
 
 ---
-
-##### 오늘의 방문자
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodemonkyu&count_bg=%233D81C8&title_bg=%23439E90&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
