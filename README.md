@@ -2,7 +2,7 @@
 
 ## Tech Stack
 
-### 🛠Techs I've used at least once & 📖Studying
+### 🛠Techs I've used 
 
 <b>💻Programing Languages</b>
 
